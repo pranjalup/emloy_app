@@ -612,7 +612,7 @@
     "colab": {
       "provenance": [],
       "authorship_tag": "ABX9TyMk/zX1yuVCp2GUlVSBEVfw",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "display_name": "Python 3",
